@@ -2,6 +2,8 @@
 
 This Ansible playbook helps you monitor EC2 instances on AWS by tracking metrics like CPU, memory, disk, and network usage. It supports sending alerts when thresholds are exceeded and allows automated, real-time monitoring of your AWS virtual machines.
 
+**Note--- will soon complete this repo, busy atm**
+
 ## Features
 
 - **Monitor EC2 instances**: Check the health and resource usage of your EC2 instances.

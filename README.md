@@ -23,5 +23,5 @@ Before using this playbook, you will need:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ansible-aws-vm-monitor.git
-cd ansible-aws-vm-monitor
+git clone https://github.com/saahil-ops/ansible-vm-monitoring.git
+cd ansible-vm-monitoring
